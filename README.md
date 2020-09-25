@@ -20,4 +20,4 @@ We developed dashboards to help the Nike Marketers to help them in marketing the
 Format: ![Alt Text](https://github.com/singhsonali978/PowerBI_dashboard_for_price_optimization_and_dynamic_forecasting/blob/master/asset/Price_optimization.png)
 
 ## **Website insights**
-Format: ![Alt Text](https://github.com/Abhishek-Gargha-Maheshwarappa/INFO7374DigitalMarketingAnalytics/blob/master/Project/asset/Nike_website_insights.png)
+Format: ![Alt Text](https://github.com/singhsonali978/PowerBI_dashboard_for_price_optimization_and_dynamic_forecasting/blob/master/asset/Nike_website_insights.png)
